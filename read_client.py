@@ -6,3 +6,5 @@ for client in client_file:
     print(clientNo, "." , client.rstrip('\n'),sep='')
     clientNo +=1
     
+
+print('john','jack',sep='')
